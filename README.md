@@ -24,11 +24,11 @@ To create a basic file structure for a JavaScript backend, you can follow this c
 Here's a brief explanation of each file and folder:
 
 - `app.js`: The main entry point of your backend application.
-- `routes`: This folder contains all the route files for your API endpoints.
-- `controllers`: This folder contains the logic for handling requests and responses.
 - `models`: This folder contains the data models and database schemas.
+- `controllers`: This folder contains the logic for handling requests and responses. It's just a function/process which take data & process it.
+- `routes`: This folder contains all the route files for your API endpoints.
 - `config`: This folder contains configuration files, such as database connection settings.
-- `utils`: This folder contains utility functions or helper modules.
+- `utils`: This folder contains utility functions or helper modules or to use one function at multiple places(ex-Sending mails).
 - `package.json`: The file that manages your project dependencies and scripts.
 
 Feel free to customize this structure based on your specific project requirements.
