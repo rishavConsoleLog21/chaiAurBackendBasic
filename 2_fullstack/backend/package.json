@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend for full_stack",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishavConsoleLog21/chaiaurbackend.git"
+  },
+  "author": "rishav kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rishavConsoleLog21/chaiaurbackend/issues"
+  },
+  "homepage": "https://github.com/rishavConsoleLog21/chaiaurbackend#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
