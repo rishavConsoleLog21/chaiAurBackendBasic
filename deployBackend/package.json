@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/rishavConsoleLog21/chaiAurBackend#readme",
   "dependencies": {
+    "dotenv": "^16.4.5",
     "express": "^4.19.2"
   }
 }
